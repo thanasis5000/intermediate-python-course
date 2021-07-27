@@ -14,7 +14,7 @@ def main():
             print(f'You rolled a {roll}! Critical Success!')
         else:
             print(f'You rolled a {roll}')
-        print(f'You have rolled a total of {dice_sum}')
+    print(f'You have rolled a total of {dice_sum}')
 
 if __name__== "__main__":
   main()
